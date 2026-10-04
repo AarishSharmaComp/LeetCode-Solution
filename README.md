@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0273-integer-to-english-words) |
+| [0398-random-pick-index](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0398-random-pick-index) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0398-random-pick-index](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0398-random-pick-index) |
 ## Sorting
 |  |
 | ------- |
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
