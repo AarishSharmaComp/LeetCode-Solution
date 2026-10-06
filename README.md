@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0289-game-of-life](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0406-queue-reconstruction-by-height) |
@@ -165,5 +166,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
