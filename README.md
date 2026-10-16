@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
+| [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0273-integer-to-english-words](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0273-integer-to-english-words) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0220-contains-duplicate-iii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0289-game-of-life](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0398-random-pick-index](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0409-longest-palindrome) |
@@ -137,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 ## Prefix Sum
 |  |
@@ -209,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
