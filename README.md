@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0273-integer-to-english-words) |
 | [0398-random-pick-index](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0398-random-pick-index) |
 ## String
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0273-integer-to-english-words) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0409-longest-palindrome) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0273-integer-to-english-words) |
 ## Dynamic Programming
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
