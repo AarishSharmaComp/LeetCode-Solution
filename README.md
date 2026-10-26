@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
+| [0295-find-median-from-data-stream](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0406-queue-reconstruction-by-height](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0406-queue-reconstruction-by-height) |
 ## Stack
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Trie
@@ -303,9 +306,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
