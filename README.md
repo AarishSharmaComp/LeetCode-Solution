@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 ## Trie
 |  |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0493-reverse-pairs) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
