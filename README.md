@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0406-queue-reconstruction-by-height) |
 | [0419-battleships-in-a-board](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
 | [0493-reverse-pairs](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0493-reverse-pairs) |
+| [0739-daily-temperatures](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 ## Treap
 |  |
 | ------- |
