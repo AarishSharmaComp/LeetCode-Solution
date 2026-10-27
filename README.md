@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -220,10 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Shortest Path
 |  |
 | ------- |
