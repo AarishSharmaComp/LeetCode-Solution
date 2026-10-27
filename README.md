@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0493-reverse-pairs) |
 | [0733-flood-fill](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0739-daily-temperatures) |
+| [0997-find-the-town-judge](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0997-find-the-town-judge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0398-random-pick-index](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0409-longest-palindrome) |
+| [0997-find-the-town-judge](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
+| [0997-find-the-town-judge](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Shortest Path
 |  |
