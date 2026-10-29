@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0220-contains-duplicate-iii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0289-game-of-life](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0733-flood-fill) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0733-flood-fill](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0733-flood-fill) |
