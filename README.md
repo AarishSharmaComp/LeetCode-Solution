@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
+| [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0493-reverse-pairs) |
 | [0733-flood-fill](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0739-daily-temperatures) |
+| [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 | [0997-find-the-town-judge](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0997-find-the-town-judge) |
 ## Two Pointers
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0733-flood-fill](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0733-flood-fill) |
+| [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0733-flood-fill) |
+| [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 ## Simulation
 |  |
 | ------- |
@@ -334,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 ## Merge Sort
 |  |
 | ------- |
@@ -383,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0127-word-ladder) |
+| [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -395,4 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
+## Heuristic Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
+## A* Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
