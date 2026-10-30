@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0126-word-ladder-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 ## Bracket Sequences
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -362,5 +366,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
