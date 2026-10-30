@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0198-house-robber) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0289-game-of-life](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0406-queue-reconstruction-by-height) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0733-flood-fill) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0733-flood-fill](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0997-find-the-town-judge](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/1791-find-center-of-star-graph) |
@@ -286,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0289-game-of-life) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0733-flood-fill) |
 ## Simulation
@@ -322,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -359,10 +366,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Bidirectional Search
 |  |
 | ------- |
