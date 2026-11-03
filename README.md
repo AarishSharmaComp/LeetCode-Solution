@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0198-house-robber) |
+| [0312-burst-balloons](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 ## Backtracking
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0289-game-of-life](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
