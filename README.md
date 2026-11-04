@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0403-frog-jump](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0403-frog-jump) |
 | [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 ## Backtracking
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0406-queue-reconstruction-by-height) |
 | [0419-battleships-in-a-board](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
 | [0493-reverse-pairs](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0493-reverse-pairs) |
