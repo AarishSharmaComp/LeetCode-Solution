@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0394-decode-string](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 ## Recursion
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0330-patching-array) |
+| [0402-remove-k-digits](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [1382-balance-a-binary-search-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Design
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 ## Treap
 |  |
