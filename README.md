@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0306-additive-number) |
 | [0332-reconstruct-itinerary](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0394-decode-string](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0306-additive-number) |
 | [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 ## Bracket Sequences
 |  |
