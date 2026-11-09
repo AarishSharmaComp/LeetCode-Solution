@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0409-longest-palindrome) |
+| [0420-strong-password-checker](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0420-strong-password-checker) |
 ## Recursion
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0409-longest-palindrome) |
+| [0420-strong-password-checker](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0420-strong-password-checker) |
 | [1382-balance-a-binary-search-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Design
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
+| [0420-strong-password-checker](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0420-strong-password-checker) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
