@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0319-bulb-switcher) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0398-random-pick-index) |
 ## String
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0391-perfect-rectangle) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0406-queue-reconstruction-by-height) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0299-bulls-and-cows](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0299-bulls-and-cows) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0997-find-the-town-judge](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0997-find-the-town-judge) |
@@ -458,4 +461,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0319-bulb-switcher) |
+## Geometry
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0391-perfect-rectangle) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
