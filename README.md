@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0273-integer-to-english-words) |
 | [0313-super-ugly-number](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0319-bulb-switcher) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0398-random-pick-index](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0398-random-pick-index) |
 ## String
@@ -453,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0299-bulls-and-cows) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
