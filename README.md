@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0220-contains-duplicate-iii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0289-game-of-life](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0299-bulls-and-cows) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0391-perfect-rectangle) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0406-queue-reconstruction-by-height](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0406-queue-reconstruction-by-height) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0299-bulls-and-cows) |
 ## Brainteaser
 |  |
@@ -469,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0391-perfect-rectangle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
