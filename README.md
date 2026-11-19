@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0398-random-pick-index) |
 ## String
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0313-super-ugly-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0403-frog-jump) |
 | [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 ## Backtracking
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0406-queue-reconstruction-by-height) |
