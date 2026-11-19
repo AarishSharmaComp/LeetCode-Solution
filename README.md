@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0220-contains-duplicate-iii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [0284-peeking-iterator](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0304-range-sum-query-2d-immutable) |
@@ -481,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
