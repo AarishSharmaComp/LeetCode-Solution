@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0406-queue-reconstruction-by-height) |
 | [0419-battleships-in-a-board](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
 | [0493-reverse-pairs](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0493-reverse-pairs) |
+| [0495-teemo-attacking](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0495-teemo-attacking) |
 | [0733-flood-fill](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0289-game-of-life) |
+| [0495-teemo-attacking](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0495-teemo-attacking) |
 ## Linked List
 |  |
 | ------- |
