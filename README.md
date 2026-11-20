@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0368-largest-divisible-subset) |
+| [0372-super-pow](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0372-super-pow) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0396-rotate-function) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0148-sort-list) |
+| [0372-super-pow](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
@@ -492,4 +494,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0284-peeking-iterator) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
