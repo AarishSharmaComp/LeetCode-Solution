@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0306-additive-number) |
+| [0401-binary-watch](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0401-binary-watch) |
 | [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 ## Bracket Sequences
 |  |
@@ -504,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0372-super-pow) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
