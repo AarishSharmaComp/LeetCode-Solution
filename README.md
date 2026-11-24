@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0091-decode-ways](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
