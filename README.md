@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0403-frog-jump) |
 | [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 ## Backtracking
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0330-patching-array) |
+| [0397-integer-replacement](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0420-strong-password-checker](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0420-strong-password-checker) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0397-integer-replacement) |
 | [0773-sliding-puzzle](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0773-sliding-puzzle) |
 ## Merge Sort
 |  |
@@ -513,5 +516,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0090-subsets-ii) |
+| [0397-integer-replacement](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
