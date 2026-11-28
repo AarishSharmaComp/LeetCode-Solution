@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0097-interleaving-string) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0224-basic-calculator) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0097-interleaving-string) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0330-patching-array) |
 | [0397-integer-replacement](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0397-integer-replacement) |
