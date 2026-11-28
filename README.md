@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/AarishSharmaComp/LeetCode-Solution/tree/master/0090-subsets-ii) |
